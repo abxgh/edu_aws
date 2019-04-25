@@ -7,7 +7,7 @@
     - cheap
 
 - Setting (before class)
-    - [AWS Identity and Access Management] (https://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/introduction.html)
+    - [AWS Identity and Access Management](https://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/introduction.html)
     - user access boundary
     - id, password, access key, secret access key
 
